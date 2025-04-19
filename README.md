@@ -1,6 +1,8 @@
 # metabin
 Meta-analysis of binary outcome data Use metabin (meta) With (In) R Software
 
+https://www.youtube.com/watch?v=zNkgjN2YHgw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
